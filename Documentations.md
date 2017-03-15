@@ -55,6 +55,6 @@ When the prototype is created, we have to record with an USB microscope, the dus
 
 We need to think about the future (I think about the automatic project) that’s to say we have to develop several parts: the cost of the automatic project/prototype ? How long will this project take? 
 
-References:
+## References:
 - http://dust.com/
--http://www.ouest-france.fr/insolite/un-artiste-chinois-fabrique-une-brique-avec-de-lair-pollue-3884890
+- http://www.ouest-france.fr/insolite/un-artiste-chinois-fabrique-une-brique-avec-de-lair-pollue-3884890
