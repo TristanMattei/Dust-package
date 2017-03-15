@@ -1,4 +1,4 @@
-Learning by Doing: Dust package
+All documentation of Dust package
 
 I- Introduction 
 A- What is Dust ?
