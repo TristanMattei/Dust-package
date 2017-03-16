@@ -38,6 +38,8 @@ We think about 2 prototypes: 1 is manually and 1 is automatic. Here, we will cre
 
 ## III- The prototype 
   ### A- Characteristic
+We realize a prototype with this characteristic:
+
 
 
 ## IV- Test of the prototype
