@@ -1,0 +1,3 @@
+- Finish the first model
+- Design a second prototype
+- (Design a third prototype -- Juliette proposition)
