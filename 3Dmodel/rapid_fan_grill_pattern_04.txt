@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16022017-140229";"";
+"REFERENCE";"RAPID Fan Grill Pattern 04";"";
+"TraceParts.PartTitle";"Fan Cutouts";"";
+"TraceParts.InstanceId";"10-16022017-14022984F7ZZZ0M0WMOLOZD1QLTTRQI";"";
+"DESIGN";"RAPID - 80mm Fan - Grill Pattern 3.053539 x 3.053539";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"RAPID";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"RAPID:/F_RAPID/RAPID.010/RAPID.010.030/10-16022017-140229";"";
